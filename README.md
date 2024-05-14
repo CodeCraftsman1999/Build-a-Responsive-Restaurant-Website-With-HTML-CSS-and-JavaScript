@@ -19,4 +19,20 @@ This project is a responsive restaurant website built using HTML, CSS, and JavaS
    ```bash
    git clone github.com/CodeCraftsman1999/Build-a-Responsive-Restaurant-Website-With-HTML-CSS-and-JavaScript.git
 
+   Feel free to explore the website by navigating through the different pages. You can click on menu items, submit the contact form, or learn more about the restaurant's history on the about page.
+
+2.Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature).
+Make your changes.
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/your-feature).
+Create a new Pull Request.
+
+3.Acknowledgements
+Font Awesome for the icons used throughout the website.
+Unsplash for providing high-quality images used in the project.
+
 
